@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 /**
- * @author harish
+ * @author Harish
  *
  */
 public class Book implements Serializable {
